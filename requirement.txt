@@ -1,0 +1,10 @@
+torch
+numpy
+timm==0.5.4
+pyyaml
+yacs
+einops
+opencv-python
+PyTurboJPEG
+jpeg2dct
+termcolor
