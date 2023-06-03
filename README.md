@@ -1,4 +1,6 @@
-### This is an official repo for paper "Increasing Input Information Density for Vision Transformers on Small Datasets". 
+### This is an official repo for paper "Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets".
+ - version 1: Increasing input information density for vision transformers on small datasets, accepted as extended abstract by CVPR workshop (WiCV) 2022.
+ - version 2: Explicitly Increasing Input Information Density for Vision Transformers on Small Datasets, accepted by NeurIPS workshop (VTTA) 2022.
 
 * main branch: for classification with vision transformers.
 * heatmap branch: to select channels based on heatmaps.
